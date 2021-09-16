@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp">
+
+        <TextView
+            android:id="@+id/rankValue"
+            style="@style/fontStyle"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:text="@string/rank"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            app:layout_constraintBottom_toBottomOf="@+id/clubValue"
+            app:layout_constraintEnd_toStartOf="@+id/clubValue"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/clubValue" />
+
+        <TextView
+            android:id="@+id/clubValue"
+            style="@style/fontStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/club"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintWidth_percent=".6" />
+
+        <TextView
+            android:id="@+id/scoreValue"
+            style="@style/fontStyle"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:text="@string/score"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            app:layout_constraintBottom_toBottomOf="@+id/clubValue"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/clubValue"
+            app:layout_constraintTop_toTopOf="@+id/clubValue" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.cardview.widget.CardView>

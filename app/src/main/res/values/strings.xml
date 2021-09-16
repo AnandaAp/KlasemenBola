@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KlasemenBola</string>
+    <string name="klasemen_bola">Klasemen Bola</string>
+    <string name="club">Club</string>
+    <string name="rank">Rank</string>
+    <string name="score">Score</string>
+    <string name="position">Position</string>
+</resources>
