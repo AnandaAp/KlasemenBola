@@ -5,4 +5,5 @@
     <string name="rank">Rank</string>
     <string name="score">Score</string>
     <string name="position">Position</string>
+    <string name="logo_description">logo_description</string>
 </resources>

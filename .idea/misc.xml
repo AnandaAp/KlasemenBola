@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/anand/OneDrive/Documents/MBKM/Tugas/MingguKetiga/Tugas12/KlasemenBola/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/anand/OneDrive/Documents/MBKM/Tugas/MingguKetiga/Tugas12/KlasemenBola/app/src/main/res/drawable/ic__ball.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/anand/OneDrive/Documents/MBKM/Tugas/MingguKetiga/Tugas12/KlasemenBola/app/src/main/res/drawable/ic__ball_animated.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/anand/OneDrive/Documents/MBKM/Tugas/MingguKetiga/Tugas12/KlasemenBola/app/src/main/res/drawable/ic_football.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/anand/OneDrive/Documents/MBKM/Tugas/MingguKetiga/Tugas12/KlasemenBola/app/src/main/res/layout/activity_item_detail.xml" value="0.5" />
+        <entry key="..\:/Users/anand/OneDrive/Documents/MBKM/Tugas/MingguKetiga/Tugas12/KlasemenBola/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/anand/OneDrive/Documents/MBKM/Tugas/MingguKetiga/Tugas12/KlasemenBola/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
         <entry key="..\:/Users/anand/OneDrive/Documents/MBKM/Tugas/MingguKetiga/Tugas12/KlasemenBola/app/src/main/res/layout/layout_adapter.xml" value="0.22" />
         <entry key="..\:/Users/anand/OneDrive/Documents/MBKM/Tugas/MingguKetiga/Tugas12/KlasemenBola/app/src/main/res/layout/rc_layout.xml" value="0.67" />
       </map>

@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
             println(it.name)
         }
         println("Masuk Adapter")
-        val adapter = ClassementAdapter(list)
+        val adapter = ClassementAdapter(this,list)
         binding.rcView.layoutManager = LinearLayoutManager(this)
         binding.rcView.adapter = adapter
     }
